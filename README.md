@@ -1,12 +1,7 @@
-# Next.js
+# List of Digital Art Sources
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+a collective list of websites that i use for curation purposes.
 
-[Configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) has been added to optimize it for [CodeSandbox Projects](https://codesandbox.io/p/dashboard).
+## Databases
 
-## Resources
-
-- [CodeSandbox Projects — Docs](https://codesandbox.io/docs/projects)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
-- [Next.js — GitHub](https://github.com/vercel/next.js/)
-- [Next.js — Docs](https://nextjs.org/docs)
+- [Getty Museum](https://www.getty.edu/art/collection/search?images=true)
