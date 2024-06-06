@@ -54,6 +54,21 @@ a collective list of websites that i use for curation purposes.
 
 - **[Vogue: Runway](https://www.vogue.com/fashion-shows)**
 
+## **Freesource**
+
+- **[Free Computer Books](https://freecomputerbooks.com/)**
+- **[AlternativeTo](https://alternativeto.net/)**
+- **[SINGULART](https://www.singulart.com/)**
+- **[GNU - Free Software Directory](https://directory.fsf.org/wiki/GNU)**
+- **[Freesound](https://freesound.org/search/?s=Date+added+(newest+first)&g=1)**
+- **[PUBLIC DOMAIN PROJECT](https://pool.publicdomainproject.org/index.php/Main_Page)**
+- **[Free Music Archive](https://freemusicarchive.org/)**
+- **[Free Midi](https://freemidi.org/)**
+- **[SourceForge](https://sourceforge.net/)**
+- **[Openverse](https://openverse.org/)**
+- **[Open Hub](https://openhub.net/)**
+- **[incompetech Music Search](https://incompetech.com/music/royalty-free/music.html)**
+
 ## **MISC.**
 
 - **[Magnum Photos](https://www.magnumphotos.com/arts-culture/)**
@@ -80,7 +95,7 @@ a collective list of websites that i use for curation purposes.
 - **[Fine Art Galleries](http://www.gallerysites.com/)**
 - **[Powerhouse Collection](https://collection.powerhouse.com.au/)**
 
-## **NEW!**
+### **NEW!**
 
 - **[Artfinder](https://www.artfinder.com/)**
 - **[The Eye of Photography (Archives)](https://loeildelaphotographie.com/en/category/archives/)**
@@ -90,18 +105,3 @@ a collective list of websites that i use for curation purposes.
 - **[Artfinder](https://www.artfinder.com/art/)**
 - **[ArtSpace](https://www.artspace.com/art)**
 - **[PLATFORM Art](https://www.platformart.com/artists)**
-
-## **Freesource**
-
-- **[Free Computer Books](https://freecomputerbooks.com/)**
-- **[AlternativeTo](https://alternativeto.net/)**
-- **[SINGULART](https://www.singulart.com/)**
-- **[GNU - Free Software Directory](https://directory.fsf.org/wiki/GNU)**
-- **[Freesound](https://freesound.org/search/?s=Date+added+(newest+first)&g=1)**
-- **[PUBLIC DOMAIN PROJECT](https://pool.publicdomainproject.org/index.php/Main_Page)**
-- **[Free Music Archive](https://freemusicarchive.org/)**
-- **[Free Midi](https://freemidi.org/)**
-- **[SourceForge](https://sourceforge.net/)**
-- **[Openverse](https://openverse.org/)**
-- **[Open Hub](https://openhub.net/)**
-- **[incompetech Music Search](https://incompetech.com/music/royalty-free/music.html)**
