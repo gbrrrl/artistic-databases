@@ -52,22 +52,40 @@ a collective list of websites that i use for curation purposes.
 
 ## **Publications**
 
+- [Apollo Magazine](https://www.apollo-magazine.com/)
+- [Colossal](https://www.thisiscolossal.com/)
+- [Creative Commons](https://creativecommons.org/)
+- [Interview Magazine](http://interviewmagazine.com)
+- [Juxtapoz Magazine](https://www.juxtapoz.com/)
+- [KALTBLUT Magazine](http://kaltblut-magazine.com)
+- [PAPER Magazine](https://www.papermag.com/)
+- [Photograph Magazine](https://photographmag.com/)
+- [PRINT Magazine](https://www.printmag.com/)
+- [RUSSH Magazine](https://www.russh.com/)
+- [Sleek Magazine](http://sleek-mag.com)
+- [SURFACE Magazine](http://surfacemag.com)
+- [The Public Domain Review](https://publicdomainreview.org/)
+- [Wikimedia Commons](https://commons.m.wikimedia.org/wiki/Commons:Welcome)
+
+- [Anne of Carversville](https://anneofcarversville.com/)
+- [AnOther Magazine](http://anothermag.com)
+- [Artillery Magazine](http://artillerymag.com)
+- [Blind Magazine](http://blind-magazine.com)
+- [Business of Fashion](https://www.businessoffashion.com/)
+- [CRASH Magazine](https://www.crash.fr/)
+- [Cultured Magazine](http://culturedmag.com)
+- [Dazed Magazine](https://www.dazeddigital.com/)
+- [Document Journal](https://www.documentjournal.com/)
+- [FAD Magazine](https://fadmagazine.com/)
+- [INFRINGE Magazine](https://www.infringe.com/)
+- [NASTY Magazine](https://www.nastymagazine.com/)
+- [NUVO Magazine ](http://nuvomagazine.com)
+- [Purple Magazine](https://purple.fr/)
+- [Schön! Magazine](http://schonmagazine.com)
+- [Self Service Magazine](https://selfservicemagazine.com/)
+- [SICKY Magazine](http://sickymag.com)
+- [The Face Magazine](https://theface.com/)
 - **[Vogue: Runway](https://www.vogue.com/fashion-shows)**
-
-## **Freesource**
-
-- **[Free Computer Books](https://freecomputerbooks.com/)**
-- **[AlternativeTo](https://alternativeto.net/)**
-- **[SINGULART](https://www.singulart.com/)**
-- **[GNU - Free Software Directory](https://directory.fsf.org/wiki/GNU)**
-- **[Freesound](https://freesound.org/search/?s=Date+added+(newest+first)&g=1)**
-- **[PUBLIC DOMAIN PROJECT](https://pool.publicdomainproject.org/index.php/Main_Page)**
-- **[Free Music Archive](https://freemusicarchive.org/)**
-- **[Free Midi](https://freemidi.org/)**
-- **[SourceForge](https://sourceforge.net/)**
-- **[Openverse](https://openverse.org/)**
-- **[Open Hub](https://openhub.net/)**
-- **[incompetech Music Search](https://incompetech.com/music/royalty-free/music.html)**
 
 ## **MISC.**
 
@@ -95,8 +113,6 @@ a collective list of websites that i use for curation purposes.
 - **[Fine Art Galleries](http://www.gallerysites.com/)**
 - **[Powerhouse Collection](https://collection.powerhouse.com.au/)**
 
-### **NEW!**
-
 - **[Artfinder](https://www.artfinder.com/)**
 - **[The Eye of Photography (Archives)](https://loeildelaphotographie.com/en/category/archives/)**
 - **[The Phillips Collection](https://www.phillipscollection.org/collection)**
@@ -105,3 +121,18 @@ a collective list of websites that i use for curation purposes.
 - **[Artfinder](https://www.artfinder.com/art/)**
 - **[ArtSpace](https://www.artspace.com/art)**
 - **[PLATFORM Art](https://www.platformart.com/artists)**
+
+## **Freesource**
+
+- **[Free Computer Books](https://freecomputerbooks.com/)**
+- **[AlternativeTo](https://alternativeto.net/)**
+- **[SINGULART](https://www.singulart.com/)**
+- **[GNU - Free Software Directory](https://directory.fsf.org/wiki/GNU)**
+- **[Freesound](https://freesound.org/search/?s=Date+added+(newest+first)&g=1)**
+- **[PUBLIC DOMAIN PROJECT](https://pool.publicdomainproject.org/index.php/Main_Page)**
+- **[Free Music Archive](https://freemusicarchive.org/)**
+- **[Free Midi](https://freemidi.org/)**
+- **[SourceForge](https://sourceforge.net/)**
+- **[Openverse](https://openverse.org/)**
+- **[Open Hub](https://openhub.net/)**
+- **[incompetech Music Search](https://incompetech.com/music/royalty-free/music.html)**
