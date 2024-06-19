@@ -36,55 +36,55 @@ a collective list of websites that i use for curation purposes.
 
 ## **Museums**
 
-- **[Whitney Museum](https://whitney.org/collection/works?q%5Bhas_image_true%5D=1)**
+- **[The British Library Collection](https://imagesonline.bl.uk/groupitem/146/)**
+- **[George Eastman Museum](https://collections.eastman.org/objects/images?filter=mediaExistence%3Atrue)**
+- **[High Museum of Art](https://high.org/?s=&rt=collections&clf-2=has-image)**
+- **[The J. Paul Getty Museum Collection](https://www.getty.edu/art/collection/search?images=true)**
+- **[MA-g](https://www.ma-g.org/)**
+- **[The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search?searchField=All&showOnly=withImage&sortBy=relevance)**
 - **[MoMA](https://www.moma.org/collection)**
-- **[Smithsonian](https://americanart.si.edu/search/artworks?content_type=artwork&media=true)**
+- **[Museum of Fine Arts, Boston](https://collections.mfa.org/search/Objects/imageExistence%3Atrue/*?filter=imageExistence%3Atrue#filters)**
 - **[Phila Museum](https://www.philamuseum.org/collections/search.html)**
 - **[Rijksmuseum](https://www.rijksmuseum.nl/en/search?ii=0&p=1)**
-- **[George Eastman Museum](https://collections.eastman.org/objects/images?filter=mediaExistence%3Atrue)**
-- **[The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search?searchField=All&showOnly=withImage&sortBy=relevance)**
-- **[The British Library Collection](https://imagesonline.bl.uk/groupitem/146/)**
-- **[The J. Paul Getty Museum Collection](https://www.getty.edu/art/collection/search?images=true)**
-- **[Museum of Fine Arts, Boston](https://collections.mfa.org/search/Objects/imageExistence%3Atrue/*?filter=imageExistence%3Atrue#filters)**
 - **[SCAD FASH Museum of Fashion + Film](https://www.scadfash.org/exhibitions)**
-- **[MA-g](https://www.ma-g.org/)**
-- **[High Museum of Art](https://high.org/?s=&rt=collections&clf-2=has-image)**
+- **[Smithsonian](https://americanart.si.edu/search/artworks?content_type=artwork&media=true)**
+- **[Whitney Museum](https://whitney.org/collection/works?q%5Bhas_image_true%5D=1)**
 
 ## **Publications**
 
-- [Apollo Magazine](https://www.apollo-magazine.com/)
-- [Colossal](https://www.thisiscolossal.com/)
-- [Creative Commons](https://creativecommons.org/)
-- [Interview Magazine](http://interviewmagazine.com)
-- [Juxtapoz Magazine](https://www.juxtapoz.com/)
-- [KALTBLUT Magazine](http://kaltblut-magazine.com)
-- [PAPER Magazine](https://www.papermag.com/)
-- [Photograph Magazine](https://photographmag.com/)
-- [PRINT Magazine](https://www.printmag.com/)
-- [RUSSH Magazine](https://www.russh.com/)
-- [Sleek Magazine](http://sleek-mag.com)
-- [SURFACE Magazine](http://surfacemag.com)
-- [The Public Domain Review](https://publicdomainreview.org/)
-- [Wikimedia Commons](https://commons.m.wikimedia.org/wiki/Commons:Welcome)
+- **[Apollo Magazine](https://www.apollo-magazine.com/)**
+- **[Colossal](https://www.thisiscolossal.com/)**
+- **[Creative Commons](https://creativecommons.org/)**
+- **[Interview Magazine](http://interviewmagazine.com)**
+- **[Juxtapoz Magazine](https://www.juxtapoz.com/)**
+- **[KALTBLUT Magazine](http://kaltblut-magazine.com)**
+- **[PAPER Magazine](https://www.papermag.com/)**
+- **[Photograph Magazine](https://photographmag.com/)**
+- **[PRINT Magazine](https://www.printmag.com/)**
+- **[RUSSH Magazine](https://www.russh.com/)**
+- **[Sleek Magazine](http://sleek-mag.com)**
+- **[SURFACE Magazine](http://surfacemag.com)**
+- **[The Public Domain Review](https://publicdomainreview.org/)**
+- **[Wikimedia Commons](https://commons.m.wikimedia.org/wiki/Commons:Welcome)**
 
-- [Anne of Carversville](https://anneofcarversville.com/)
-- [AnOther Magazine](http://anothermag.com)
-- [Artillery Magazine](http://artillerymag.com)
-- [Blind Magazine](http://blind-magazine.com)
-- [Business of Fashion](https://www.businessoffashion.com/)
-- [CRASH Magazine](https://www.crash.fr/)
-- [Cultured Magazine](http://culturedmag.com)
-- [Dazed Magazine](https://www.dazeddigital.com/)
-- [Document Journal](https://www.documentjournal.com/)
-- [FAD Magazine](https://fadmagazine.com/)
-- [INFRINGE Magazine](https://www.infringe.com/)
-- [NASTY Magazine](https://www.nastymagazine.com/)
-- [NUVO Magazine ](http://nuvomagazine.com)
-- [Purple Magazine](https://purple.fr/)
-- [Schön! Magazine](http://schonmagazine.com)
-- [Self Service Magazine](https://selfservicemagazine.com/)
-- [SICKY Magazine](http://sickymag.com)
-- [The Face Magazine](https://theface.com/)
+- **[Anne of Carversville](https://anneofcarversville.com/)**
+- **[AnOther Magazine](http://anothermag.com)**
+- **[Artillery Magazine](http://artillerymag.com)**
+- **[Blind Magazine](http://blind-magazine.com)**
+- **[Business of Fashion](https://www.businessoffashion.com/)**
+- **[CRASH Magazine](https://www.crash.fr/)**
+- **[Cultured Magazine](http://culturedmag.com)**
+- **[Dazed Magazine](https://www.dazeddigital.com/)**
+- **[Document Journal](https://www.documentjournal.com/)**
+- **[FAD Magazine](https://fadmagazine.com/)**
+- **[INFRINGE Magazine](https://www.infringe.com/)**
+- **[NASTY Magazine](https://www.nastymagazine.com/)**
+- **[NUVO Magazine ](http://nuvomagazine.com)**
+- **[Purple Magazine](https://purple.fr/)**
+- **[Schön! Magazine](http://schonmagazine.com)**
+- **[Self Service Magazine](https://selfservicemagazine.com/)**
+- **[SICKY Magazine](http://sickymag.com)**
+- **[The Face Magazine](https://theface.com/)**
 - **[Vogue: Runway](https://www.vogue.com/fashion-shows)**
 
 ## **MISC.**
