@@ -11,6 +11,7 @@ a collective list of websites that i use for curation purposes.
 - **[LiveAuctioneers](https://www.liveauctioneers.com/catalog/search/)**
 - **[Lyst](https://www.lyst.com/shop/womens)**
 - **[Saatchi Art](https://www.saatchiart.com/all)**
+- **[1stDibs](https://www.1stdibs.com/new-arrivals)**
 
 ## **Databases**
 
@@ -27,9 +28,11 @@ a collective list of websites that i use for curation purposes.
 - **[The Cary Collection](https://thecarycollection.com/collections/all?sort_by=best-selling)**
 - **[Corkin Gallery](https://www.corkingallery.com/artists/)**
 - **[Fahkey Klein Gallery](http://www.faheykleingallery.com/artists)**
+- **[The Frick Digital Collections](https://digitalcollections.frick.org/digico/#/archive/Photoarchive/)**
 - **[Gallery 98](https://gallery98.org/artists/)**
 - **[Holden Luntz Gallery](https://www.holdenluntz.com/artists/?showall=true)**
 - **[Jackson Fine Art](https://www.jacksonfineart.com/artists/)**
+- **[NGA](https://www.nga.gov/collection-search-result.html?artobj_imagesonly=Images_online)**
 - **[Pace Gallery](https://www.pacegallery.com/artists/)**
 - **[Robert Klein Gallery](https://www.robertkleingallery.com/artists/)**
 - **[Robert Koch Gallery](https://kochgallery.com/artists/#artists-contemporary)**
@@ -66,7 +69,7 @@ a collective list of websites that i use for curation purposes.
 - **[SURFACE Magazine](http://surfacemag.com)**
 - **[The Public Domain Review](https://publicdomainreview.org/)**
 - **[Wikimedia Commons](https://commons.m.wikimedia.org/wiki/Commons:Welcome)**
-
+- _
 - **[Anne of Carversville](https://anneofcarversville.com/)**
 - **[AnOther Magazine](http://anothermag.com)**
 - **[Artillery Magazine](http://artillerymag.com)**
@@ -90,7 +93,6 @@ a collective list of websites that i use for curation purposes.
 ## **MISC.**
 
 - **[Magnum Photos](https://www.magnumphotos.com/arts-culture/)**
-- **[1stDibs](https://www.1stdibs.com/new-arrivals)**
 - **[National Library of Medicine](https://collections.nlm.nih.gov/?f%5Bdrep2.isMemberOfCollection%5D%5B%5D=DREPIHM&per_page=100)**
 - **[Artnet](https://www.artnet.com/galleries/fine-art-artworks-for-sale/)**
 - **[Archive-It](https://archive-it.org/explore?show=Organizations)**
@@ -101,8 +103,6 @@ a collective list of websites that i use for curation purposes.
 - **[Smithsonian Institution](https://collections.si.edu/search/results.htm?view=grid&fq=online_media_type%3A%22Images%22&q=&fq=online_visual_material%3Atrue)**
 - **[DPLA](https://dp.la/search?list_view=grid&type=%22image%22&page=1&page_size=100)**
 - **[Fine Art Sites](http://www.fineartsites.org/)**
-- **[NGA](https://www.nga.gov/collection-search-result.html?artobj_imagesonly=Images_online)**
-- **[The Frick Digital Collections](https://digitalcollections.frick.org/digico/#/archive/Photoarchive/)**
 - **[Calisphere](https://calisphere.org/collections/num/)**
 - **[V&A Collections](https://collections.vam.ac.uk/search/?images_exist=true&page=1&page_size=50&q=)**
 - **[Artspace](https://www.artspace.com/)**
@@ -121,18 +121,20 @@ a collective list of websites that i use for curation purposes.
 - **[Artfinder](https://www.artfinder.com/art/)**
 - **[ArtSpace](https://www.artspace.com/art)**
 - **[PLATFORM Art](https://www.platformart.com/artists)**
+- **[SINGULART](https://www.singulart.com/)**
 
 ## **Freesource**
 
 - **[Free Computer Books](https://freecomputerbooks.com/)**
+- _
 - **[AlternativeTo](https://alternativeto.net/)**
-- **[SINGULART](https://www.singulart.com/)**
 - **[GNU - Free Software Directory](https://directory.fsf.org/wiki/GNU)**
-- **[Freesound](https://freesound.org/search/?s=Date+added+(newest+first)&g=1)**
-- **[PUBLIC DOMAIN PROJECT](https://pool.publicdomainproject.org/index.php/Main_Page)**
-- **[Free Music Archive](https://freemusicarchive.org/)**
-- **[Free Midi](https://freemidi.org/)**
-- **[SourceForge](https://sourceforge.net/)**
-- **[Openverse](https://openverse.org/)**
 - **[Open Hub](https://openhub.net/)**
+- **[Openverse](https://openverse.org/)**
+- **[SourceForge](https://sourceforge.net/)**
+- _
+- **[Free Midi](https://freemidi.org/)**
+- **[Free Music Archive](https://freemusicarchive.org/)**
+- **[Freesound](https://freesound.org/search/?s=Date+added+(newest+first)&g=1)**
 - **[incompetech Music Search](https://incompetech.com/music/royalty-free/music.html)**
+- **[PUBLIC DOMAIN PROJECT](https://pool.publicdomainproject.org/index.php/Main_Page)**
