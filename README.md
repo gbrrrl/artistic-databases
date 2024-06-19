@@ -4,38 +4,59 @@ a collective list of websites that i use for curation purposes.
 
 ## **Aggregators**
 
+- **[Artfinder](https://www.artfinder.com/)**
+- **[Artspace](https://www.artspace.com/)**
+- **[Artsper](https://www.artsper.com/us/contemporary-artworks)**
+- **[Arthive](https://arthive.com/galleries)**
+- **[Artnet](https://www.artnet.com/galleries/fine-art-artworks-for-sale/)**
+- **[Archive-It](https://archive-it.org/explore?show=Organizations)**
+- _
 - **[Artsy](https://www.artsy.net/collect)**
 - **[Art UK | Discover Artworks](https://artuk.org/discover/artworks/view_as/grid/search/2024--has_image:on)**
+- **[Calisphere](https://calisphere.org/collections/num/)**
+- **[Fine Art Galleries](http://www.gallerysites.com/)**
+- **[Fine Art Sites](http://www.fineartsites.org/)**
 - **[Invaluable](https://www.invaluable.com/auctions/?category=1%2C3%2C4%2C6%2C8%2C10&size=200)**
 - **[JSTOR](https://www.jstor.org/images)**
 - **[LiveAuctioneers](https://www.liveauctioneers.com/catalog/search/)**
 - **[Lyst](https://www.lyst.com/shop/womens)**
+- **[PLATFORM Art](https://www.platformart.com/artists)**
 - **[Saatchi Art](https://www.saatchiart.com/all)**
 - **[1stDibs](https://www.1stdibs.com/new-arrivals)**
 
 ## **Databases**
 
+- **[The Art Institute of Chicago](https://www.artic.edu/collection)**
+- **[DPLA](https://dp.la/search?list_view=grid&type=%22image%22&page=1&page_size=100)**
 - **[Harvard Digital Collections](https://digitalcollections.library.harvard.edu/catalog?f%5BresourceType%5D%5B%5D=still+image&per_page=96&search_field=all_fields&view=gallery)**
 - **[Internet Archive](https://archive.org/details/fav-gbrrrl?sort=title)**
 - **[Library of Congress](https://www.loc.gov/search/?c=200&fa=online-format:image&sb=shelf-id&st=grid)**
+- **[Magnum Photos](https://www.magnumphotos.com/arts-culture/)**
 - **[MutualArt](https://www.mutualart.com/artists)**
 - **[Nationaal Archief](https://www.nationaalarchief.nl/onderzoeken/zoeken?activeTab=photos&qf_nao_download=Direct%20beschikbaar&resultsPerPage=48&rm=gallery)**
+- **[National Library of Medicine](https://collections.nlm.nih.gov/?f%5Bdrep2.isMemberOfCollection%5D%5B%5D=DREPIHM&per_page=100)**
 - **[NYPL Digital Collections](https://digitalcollections.nypl.org/search/index?filters%5Btype%5D%5B%5D=still+image&filters%5Btype_s%5D%5B%5D=http%3A%2F%2Furi.nypl.org%2Fvocabulary%2Frepository_terms%23Capture&keywords=&sort=mainTitle_ns+asc#)**
 - **[Smithsonian Institution](https://www.si.edu/search/collection-images?edan_local=&edan_q=&)**
+- **[Smithsonian Institution](https://collections.si.edu/search/results.htm?view=grid&fq=online_media_type%3A%22Images%22&q=&fq=online_visual_material%3Atrue)**
 
 ## **Galleries**
 
+- **[Biblioteca Valenciana Digital](https://bivaldi.gva.es/en/consulta/resultados_busqueda.do?secc_FOTOGRAFIA_DESFILIS=on&secc_GRAB=on&secc_POST=on&secc_FOTOGRAFIA=on&secc_CAR=on&secc_FOTOGRAFIA_BMAG=on&autor_numcontrol&materia_numcontrol&secc_FOTOGRAFIA_FROGLA=on&secc_FOTOGRAFIA_FOTVARIAS=on&secc_FOTOGRAFIA_FINEZAS=on&secc_EPHE=on&lugar_numcontrol&id=33846&forma&presentacion=mosaico)**
 - **[The Cary Collection](https://thecarycollection.com/collections/all?sort_by=best-selling)**
 - **[Corkin Gallery](https://www.corkingallery.com/artists/)**
 - **[Fahkey Klein Gallery](http://www.faheykleingallery.com/artists)**
 - **[The Frick Digital Collections](https://digitalcollections.frick.org/digico/#/archive/Photoarchive/)**
 - **[Gallery 98](https://gallery98.org/artists/)**
+- **[Heckscher Collection](http://heckschercollection.org/argus/Portal.aspx?lang=en-US)**
 - **[Holden Luntz Gallery](https://www.holdenluntz.com/artists/?showall=true)**
 - **[Jackson Fine Art](https://www.jacksonfineart.com/artists/)**
 - **[NGA](https://www.nga.gov/collection-search-result.html?artobj_imagesonly=Images_online)**
 - **[Pace Gallery](https://www.pacegallery.com/artists/)**
+- **[The Phillips Collection](https://www.phillipscollection.org/collection)**
+- **[Powerhouse Collection](https://collection.powerhouse.com.au/)**
 - **[Robert Klein Gallery](https://www.robertkleingallery.com/artists/)**
 - **[Robert Koch Gallery](https://kochgallery.com/artists/#artists-contemporary)**
+- **[V&A Collections](https://collections.vam.ac.uk/search/?images_exist=true&page=1&page_size=50&q=)**
 
 ## **Museums**
 
@@ -90,39 +111,6 @@ a collective list of websites that i use for curation purposes.
 - **[The Face Magazine](https://theface.com/)**
 - **[Vogue: Runway](https://www.vogue.com/fashion-shows)**
 
-## **MISC.**
-
-- **[Magnum Photos](https://www.magnumphotos.com/arts-culture/)**
-- **[National Library of Medicine](https://collections.nlm.nih.gov/?f%5Bdrep2.isMemberOfCollection%5D%5B%5D=DREPIHM&per_page=100)**
-- **[Artnet](https://www.artnet.com/galleries/fine-art-artworks-for-sale/)**
-- **[Archive-It](https://archive-it.org/explore?show=Organizations)**
-- **[Biblioteca Valenciana Digital](https://bivaldi.gva.es/en/consulta/resultados_busqueda.do?secc_FOTOGRAFIA_DESFILIS=on&secc_GRAB=on&secc_POST=on&secc_FOTOGRAFIA=on&secc_CAR=on&secc_FOTOGRAFIA_BMAG=on&autor_numcontrol&materia_numcontrol&secc_FOTOGRAFIA_FROGLA=on&secc_FOTOGRAFIA_FOTVARIAS=on&secc_FOTOGRAFIA_FINEZAS=on&secc_EPHE=on&lugar_numcontrol&id=33846&forma&presentacion=mosaico)**
-- **[Libraries.io](https://libraries.io/)**
-- **[Art cyclopedia: The Fine Art Search Engine](http://www.artcyclopedia.com/)**
-- **[Web Gallery of Art](https://www.wga.hu/index_artists.html)**
-- **[Smithsonian Institution](https://collections.si.edu/search/results.htm?view=grid&fq=online_media_type%3A%22Images%22&q=&fq=online_visual_material%3Atrue)**
-- **[DPLA](https://dp.la/search?list_view=grid&type=%22image%22&page=1&page_size=100)**
-- **[Fine Art Sites](http://www.fineartsites.org/)**
-- **[Calisphere](https://calisphere.org/collections/num/)**
-- **[V&A Collections](https://collections.vam.ac.uk/search/?images_exist=true&page=1&page_size=50&q=)**
-- **[Artspace](https://www.artspace.com/)**
-- **[Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Images)**
-- **[UGallery](https://www.ugallery.com/)**
-- **[Artsper](https://www.artsper.com/us/contemporary-artworks)**
-- **[Arthive](https://arthive.com/galleries)**
-- **[Fine Art Galleries](http://www.gallerysites.com/)**
-- **[Powerhouse Collection](https://collection.powerhouse.com.au/)**
-
-- **[Artfinder](https://www.artfinder.com/)**
-- **[The Eye of Photography (Archives)](https://loeildelaphotographie.com/en/category/archives/)**
-- **[The Phillips Collection](https://www.phillipscollection.org/collection)**
-- **[The Art Institute of Chicago](https://www.artic.edu/collection)**
-- **[Heckscher Collection](http://heckschercollection.org/argus/Portal.aspx?lang=en-US)**
-- **[Artfinder](https://www.artfinder.com/art/)**
-- **[ArtSpace](https://www.artspace.com/art)**
-- **[PLATFORM Art](https://www.platformart.com/artists)**
-- **[SINGULART](https://www.singulart.com/)**
-
 ## **Freesource**
 
 - **[Free Computer Books](https://freecomputerbooks.com/)**
@@ -138,3 +126,13 @@ a collective list of websites that i use for curation purposes.
 - **[Freesound](https://freesound.org/search/?s=Date+added+(newest+first)&g=1)**
 - **[incompetech Music Search](https://incompetech.com/music/royalty-free/music.html)**
 - **[PUBLIC DOMAIN PROJECT](https://pool.publicdomainproject.org/index.php/Main_Page)**
+
+## **TO BE SORTED...**
+
+- **[Libraries.io](https://libraries.io/)**
+- **[Art cyclopedia: The Fine Art Search Engine](http://www.artcyclopedia.com/)**
+- **[Web Gallery of Art](https://www.wga.hu/index_artists.html)**
+- **[Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Images)**
+- **[UGallery](https://www.ugallery.com/)**
+- **[The Eye of Photography (Archives)](https://loeildelaphotographie.com/en/category/archives/)**
+- **[SINGULART](https://www.singulart.com/)**
