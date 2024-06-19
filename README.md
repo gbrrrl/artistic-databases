@@ -4,35 +4,35 @@ a collective list of websites that i use for curation purposes.
 
 ## **Aggregators**
 
-- **[JSTOR](https://www.jstor.org/images)**
 - **[Artsy](https://www.artsy.net/collect)**
 - **[Art UK | Discover Artworks](https://artuk.org/discover/artworks/view_as/grid/search/2024--has_image:on)**
+- **[Invaluable](https://www.invaluable.com/auctions/?category=1%2C3%2C4%2C6%2C8%2C10&size=200)**
+- **[JSTOR](https://www.jstor.org/images)**
+- **[LiveAuctioneers](https://www.liveauctioneers.com/catalog/search/)**
 - **[Lyst](https://www.lyst.com/shop/womens)**
 - **[Saatchi Art](https://www.saatchiart.com/all)**
-- **[LiveAuctioneers](https://www.liveauctioneers.com/catalog/search/)**
-- **[Invaluable](https://www.invaluable.com/auctions/?category=1%2C3%2C4%2C6%2C8%2C10&size=200)**
 
 ## **Databases**
 
-- **[MutualArt](https://www.mutualart.com/artists)**
-- **[Internet Archive](https://archive.org/details/fav-gbrrrl?sort=title)**
 - **[Harvard Digital Collections](https://digitalcollections.library.harvard.edu/catalog?f%5BresourceType%5D%5B%5D=still+image&per_page=96&search_field=all_fields&view=gallery)**
+- **[Internet Archive](https://archive.org/details/fav-gbrrrl?sort=title)**
 - **[Library of Congress](https://www.loc.gov/search/?c=200&fa=online-format:image&sb=shelf-id&st=grid)**
+- **[MutualArt](https://www.mutualart.com/artists)**
 - **[Nationaal Archief](https://www.nationaalarchief.nl/onderzoeken/zoeken?activeTab=photos&qf_nao_download=Direct%20beschikbaar&resultsPerPage=48&rm=gallery)**
 - **[NYPL Digital Collections](https://digitalcollections.nypl.org/search/index?filters%5Btype%5D%5B%5D=still+image&filters%5Btype_s%5D%5B%5D=http%3A%2F%2Furi.nypl.org%2Fvocabulary%2Frepository_terms%23Capture&keywords=&sort=mainTitle_ns+asc#)**
 - **[Smithsonian Institution](https://www.si.edu/search/collection-images?edan_local=&edan_q=&)**
 
 ## **Galleries**
 
-- **[Gallery 98](https://gallery98.org/artists/)**
-- **[Robert Klein Gallery](https://www.robertkleingallery.com/artists/)**
-- **[Corkin Gallery](https://www.corkingallery.com/artists/)**
-- **[Holden Luntz Gallery](https://www.holdenluntz.com/artists/?showall=true)**
-- **[Robert Koch Gallery](https://kochgallery.com/artists/#artists-contemporary)**
-- **[Fahkey Klein Gallery](http://www.faheykleingallery.com/artists)**
-- **[Pace Gallery](https://www.pacegallery.com/artists/)**
-- **[Jackson Fine Art](https://www.jacksonfineart.com/artists/)**
 - **[The Cary Collection](https://thecarycollection.com/collections/all?sort_by=best-selling)**
+- **[Corkin Gallery](https://www.corkingallery.com/artists/)**
+- **[Fahkey Klein Gallery](http://www.faheykleingallery.com/artists)**
+- **[Gallery 98](https://gallery98.org/artists/)**
+- **[Holden Luntz Gallery](https://www.holdenluntz.com/artists/?showall=true)**
+- **[Jackson Fine Art](https://www.jacksonfineart.com/artists/)**
+- **[Pace Gallery](https://www.pacegallery.com/artists/)**
+- **[Robert Klein Gallery](https://www.robertkleingallery.com/artists/)**
+- **[Robert Koch Gallery](https://kochgallery.com/artists/#artists-contemporary)**
 
 ## **Museums**
 
