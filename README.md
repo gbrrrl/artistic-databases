@@ -1,6 +1,6 @@
 # List of Digital Art Sources
 
-a collective list of websites that i use for curation purposes.
+a collective list of websites that I use for curation purposes.
 
 ## **Aggregators**
 
