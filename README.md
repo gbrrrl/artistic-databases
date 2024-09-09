@@ -136,3 +136,9 @@ a collective list of websites that I use for curation purposes.
 - **[UGallery](https://www.ugallery.com/)**
 - **[The Eye of Photography (Archives)](https://loeildelaphotographie.com/en/category/archives/)**
 - **[SINGULART](https://www.singulart.com/)**
+- **[Wikisource](https://en.wikisource.org/wiki/Main_Page/)**
+- **[Musopen](https://musopen.org/)**
+- **[Project Gutenberg](https://www.gutenberg.org/)**
+- **[Global Grey eBooks](https://www.globalgreyebooks.com/index.html)**
+- **[Internet Is For The People](https://reform.communia-association.org/)**
+- **[Anna's Archive?]()**
