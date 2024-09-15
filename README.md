@@ -126,6 +126,7 @@ a collective list of websites that I use for curation purposes.
 - **[Freesound](https://freesound.org/search/?s=Date+added+(newest+first)&g=1)**
 - **[incompetech Music Search](https://incompetech.com/music/royalty-free/music.html)**
 - **[PUBLIC DOMAIN PROJECT](https://pool.publicdomainproject.org/index.php/Main_Page)**
+- **[Internet Is For The People](https://reform.communia-association.org/)**
 
 ## **TO BE SORTED...**
 
@@ -140,5 +141,4 @@ a collective list of websites that I use for curation purposes.
 - **[Musopen](https://musopen.org/)**
 - **[Project Gutenberg](https://www.gutenberg.org/)**
 - **[Global Grey eBooks](https://www.globalgreyebooks.com/index.html)**
-- **[Internet Is For The People](https://reform.communia-association.org/)**
 - **[Anna's Archive?]()**
