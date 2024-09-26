@@ -4,8 +4,6 @@ a collective list of websites that I use for curation purposes.
 
 ## **Aggregators**
 
-[![The Internet Archive](https://i.imgur.com/SkG1HhF.jpg)](https://archive.org)
-
 - **[Artfinder](https://www.artfinder.com/)**
 - **[Artspace](https://www.artspace.com/)**
 - **[Artsper](https://www.artsper.com/us/contemporary-artworks)**
@@ -27,6 +25,8 @@ a collective list of websites that I use for curation purposes.
 - **[1stDibs](https://www.1stdibs.com/new-arrivals)**
 
 ## **Databases**
+
+[![The Internet Archive](https://i.imgur.com/SkG1HhF.jpg)](https://archive.org)
 
 - **[The Art Institute of Chicago](https://www.artic.edu/collection)**
 - **[DPLA](https://dp.la/search?list_view=grid&type=%22image%22&page=1&page_size=100)**
