@@ -4,6 +4,8 @@ a collective list of websites that I use for curation purposes.
 
 ## **Aggregators**
 
+[![The Internet Archive](https://i.imgur.com/SkG1HhF.jpg)]
+
 - **[Artfinder](https://www.artfinder.com/)**
 - **[Artspace](https://www.artspace.com/)**
 - **[Artsper](https://www.artsper.com/us/contemporary-artworks)**
