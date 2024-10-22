@@ -26,8 +26,7 @@ a collective list of websites that I use for curation purposes.
 
 ## **Databases**
 
-[![The Internet Archive](https://i.imgur.com/SkG1HhF.jpg)](https://archive.org)
-
+- **[The Internet Archive](https://archive.org)**
 - **[The Art Institute of Chicago](https://www.artic.edu/collection)**
 - **[DPLA](https://dp.la/search?list_view=grid&type=%22image%22&page=1&page_size=100)**
 - **[Harvard Digital Collections](https://digitalcollections.library.harvard.edu/catalog?f%5BresourceType%5D%5B%5D=still+image&per_page=96&search_field=all_fields&view=gallery)**
