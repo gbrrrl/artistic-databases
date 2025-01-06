@@ -12,7 +12,7 @@ a collective list of websites that I use for curation purposes.
 - **[Archive-It](https://archive-it.org/explore?show=Organizations)**
 - _
 - **[Artsy](https://www.artsy.net/collect)**
-- **[Art UK | Discover Artworks](https://artuk.org/discover/artworks/view_as/grid/search/2024--has_image:on)**
+- **[Art UK](https://artuk.org/discover/artworks/view_as/grid/search/2024--has_image:on)**
 - **[Calisphere](https://calisphere.org/collections/num/)**
 - **[Fine Art Galleries](http://www.gallerysites.com/)**
 - **[Fine Art Sites](http://www.fineartsites.org/)**
@@ -104,7 +104,7 @@ a collective list of websites that I use for curation purposes.
 - **[FAD Magazine](https://fadmagazine.com/)**
 - **[INFRINGE Magazine](https://www.infringe.com/)**
 - **[NASTY Magazine](https://www.nastymagazine.com/)**
-- **[NUVO Magazine ](http://nuvomagazine.com)**
+- **[NUVO Magazine](http://nuvomagazine.com)**
 - **[Purple Magazine](https://purple.fr/)**
 - **[Schön! Magazine](http://schonmagazine.com)**
 - **[Self Service Magazine](https://selfservicemagazine.com/)**
