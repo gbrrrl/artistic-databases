@@ -10,7 +10,7 @@ a collective list of websites that I use for curation purposes.
 - **[Arthive](https://arthive.com/galleries)**
 - **[Artnet](https://www.artnet.com/galleries/fine-art-artworks-for-sale/)**
 - **[Archive-It](https://archive-it.org/explore?show=Organizations)**
-- _
+
 - **[Artsy](https://www.artsy.net/collect)**
 - **[Art UK](https://artuk.org/discover/artworks/view_as/grid/search/2024--has_image:on)**
 - **[Calisphere](https://calisphere.org/collections/num/)**
