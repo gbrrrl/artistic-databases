@@ -1,4 +1,4 @@
-# List of Digital Art Sources
+# Artistic Databases
 
 a collective list of websites that I use for curation purposes.
 
