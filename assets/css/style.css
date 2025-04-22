@@ -7,6 +7,7 @@ body {
 a {
     color: #555555;
     font-size: 16px;
+    font-family: Syne, Courier, monospace;
 }
 a:hover {
     color: #666666;
@@ -14,6 +15,7 @@ a:hover {
 h1 {
     color: #ffffff;
     font-size: 50px;
+    font-family: Syne, Courier, monospace;
     text-align: center;
     text-decoration: none;
     letter-spacing: 8px;
@@ -21,6 +23,7 @@ h1 {
 h2 {
     color: #ffffff;
     font-size: 25px;
+    font-family: Syne, Courier, monospace;
     text-align: center;
     text-decoration: underline;
     letter-spacing: 2px;
