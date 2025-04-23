@@ -1,19 +1,19 @@
 body {
     background-color: #000000;
-	background-image: url("https://gbrrrl.com/assets/blog/disease/static_bg.gif");
+	background-image: url("");
 	background-repeat: repeat;
 	background-attachment: fixed;
-    color: #000000;
+    color: #ffffff;
     font-family: Verdana, Courier, monospace;
     font-size: 16px;
     }
 a {
-    color: #555555;
+    color: #ffffff;
     font-size: 12px;
     font-family: Verdana, Courier, monospace;
 }
 a:hover {
-    color: #666666;
+    color: #ffffff;
 }
 h1 {
     color: #ffffff;
@@ -21,7 +21,7 @@ h1 {
     font-family: Verdana, Courier, monospace;
     text-align: center;
     text-decoration: none;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
 }
 h2 {
     color: #ffffff;
@@ -44,16 +44,16 @@ tr {
 th a {
     display: block;
     color: #ffffff;
-    background-color: #444444;
+    background-color: #000000;
     font-size: 12px;
     text-decoration: none;
     width: 200px;
-    height: 28px;
+    height: 34px;
     padding: 10px;
     font-weight: normal;
     }
 th a:hover {
-    background-color: #666666;
+    background-color: #000000;
     color: #ffffff;
     }
     @media screen and (max-width: 600px) {
