@@ -9,7 +9,7 @@ body {
     }
 a {
     color: #555555;
-    font-size: 16px;
+    font-size: 12px;
     font-family: Verdana, Courier, monospace;
 }
 a:hover {
@@ -21,19 +21,19 @@ h1 {
     font-family: Verdana, Courier, monospace;
     text-align: center;
     text-decoration: none;
-    letter-spacing: 8px;
+    letter-spacing: 4px;
 }
 h2 {
     color: #ffffff;
     font-size: 25px;
     font-family: Verdana, Courier, monospace;
     text-align: center;
-    text-decoration: underline;
+    text-decoration: none;
     letter-spacing: 2px;
 }
 tr {
     color: #ffffff;
-    font-size: 16px;
+    font-size: 12px;
     list-style-type: none;
     margin: auto;
     padding: 20px;
@@ -45,7 +45,7 @@ th a {
     display: block;
     color: #ffffff;
     background-color: #444444;
-    font-size: 16px;
+    font-size: 12px;
     text-decoration: none;
     width: 200px;
     height: 28px;
